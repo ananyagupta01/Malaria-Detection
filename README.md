@@ -2,6 +2,7 @@
 Designed and built a Malaria Detector which will tell a person is suffering from malaria or not.
 
 STEPS:
+
 step 1 : Read the original image
 
 step 2 : Convert to grayscale image (because we are more intreseted in patterns)
